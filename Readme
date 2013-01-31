@@ -1,0 +1,28 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/aoirdeveloper/IP-Tracker.git
+git push -u origin master
+
+README:
+
+How to install:
+
+1. Unzip the Package
+2. Upload the Directory on your PHP Supported Server
+3. Finish! Just enjoy the simple program!
+
+
+
+Requirements:
+
+1. WinZip
+2. Web Hsoting or Server 
+3. PHP Support (v5.2 or more...)
+
+Developed by:
+
+AOIR DEveloper
+
+www.aoir.co.in
