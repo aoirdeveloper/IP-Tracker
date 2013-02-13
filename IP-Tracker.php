@@ -1,37 +1,5 @@
-<html>
-<!-- GNU GPL v3.0 License
-
-AOIR IP Tracker : Developed by AOIR Developer (Mumbai)
-  Shivam Vahia (AOIR Manager) Developed by AOIR Developer
-
-This program is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; version 2
-of the License.
-
-Rights:
-A. You are free to distrubute this program in any forms without any
-prior permission from the developer. But you need to attach this license
-to every edited or modified file
-
-B. You may copy and distribute verbatim copies of the Program's source code 
-as you receive it, in any medium, provided that you conspicuously and 
-appropriately publish on each copy an appropriate copyright notice and 
-disclaimer of warranty
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to AOIR Developer
-
-@ info@aoir.co.in
-
-For more details log onto
-www.aoir.co.in --!>
-</html>
+Under the GNU GPL v3.0 License
+http://www.gnu.org/licenses/gpl-3.0.txt
 
 
 <?php
